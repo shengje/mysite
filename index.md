@@ -4,9 +4,9 @@ layout: default
 
 ![avatar](avatar.jpg)
 
-# Kirby
+# Jacky Huang
 
-A Nintendo Character
+A Magician and Artdesigner
 
 - - -
 
