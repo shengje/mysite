@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![avatar](origami.jpg)
 
 # Jacky Huang
 
